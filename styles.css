@@ -1,27 +1,22 @@
+p {
+    color: red;
+    
+}
 
 body {
     background: url(./image/PosterMaker_11032023_181221.png);
     background-repeat: no-repeat;
-    height: 80vh;
+    height: 130vh;
     width: 100%;
     background-size: cover;
     background-position: center;
-    margin-top: -200px;
 }
 
 .container {
-    color:white;
+    color:blue;
     font-size: 30px;
-    margin-left: -70px;
-    margin-top: 100px;
+    margin-top: -15px;
 
-    
-}
-h2{
-    margin-left: 200px;
-    margin-top:200px;
-    color: blue;
-    font-size: 35px;
     
 }
 
@@ -29,11 +24,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-left: 30px;
-    margin-top: -230px;
-    margin-bottom: 5px;
-    color: white;
-
+    margin-top: -10px;
 
 }
 
@@ -46,23 +37,19 @@ nav ul li {
     border-radius: 2px;
     padding: 5px 12px;
     background-color: blue;
-    margin-right:50px;
-    margin-left: -20px;
-    margin-top: 10px;
-    color: white;
+    margin-top: -10px;
+    
+    
 }
-
 nav ul li a {
     color: white;
 }
 
 .price{
-    margin-top: 280px;
+    margin-top: 190px;
     align-items: center;
     color: blue;
     margin-left: 50px;
-    font-size: 30px;
-
 }
 
 button {
@@ -70,7 +57,7 @@ button {
     height: 30px;
     border: none;
     border-radius: 10px;
-    background-color: blue;
+    background-color: green;
     color: white;
     font-size: 20px;
 }
