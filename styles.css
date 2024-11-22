@@ -1,0 +1,76 @@
+
+body {
+    background: url(./image/PosterMaker_11032023_181221.png);
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    margin-top: -200px;
+}
+
+.container {
+    color:white;
+    font-size: 30px;
+    margin-left: -70px;
+    margin-top: 100px;
+
+    
+}
+h2{
+    margin-left: 200px;
+    margin-top:200px;
+    color: blue;
+    font-size: 35px;
+    
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: -230px;
+    margin-bottom: 5px;
+    color: white;
+
+
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px 20px;
+    list-style: none;
+    font-size: 30px;
+    border: none;
+    border-radius: 2px;
+    padding: 5px 12px;
+    background-color: blue;
+    margin-right:50px;
+    margin-left: -20px;
+    margin-top: 10px;
+    color: white;
+}
+
+nav ul li a {
+    color: white;
+}
+
+.price{
+    margin-top: 280px;
+    align-items: center;
+    color: blue;
+    margin-left: 50px;
+    font-size: 30px;
+
+}
+
+button {
+    width: 200px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
