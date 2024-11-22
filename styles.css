@@ -24,7 +24,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: -250px;
+    margin-top: -280px;
     margin-left: 170px;
     
 
@@ -50,7 +50,7 @@ nav ul li a {
 }
 
 .price{
-    margin-top: 500px;
+    margin-top: 570px;
     align-items: center;
     color: blue;
     margin-left: 50px;
