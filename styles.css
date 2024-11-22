@@ -24,7 +24,9 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin-top: -10px;
+    margin-top: -250px;
+    margin-left: 170px;
+    
 
 }
 
@@ -38,6 +40,8 @@ nav ul li {
     padding: 5px 12px;
     background-color: blue;
     margin-top: -10px;
+    margin-left: 40px;
+    margin-right: 0px;
     
     
 }
@@ -46,7 +50,7 @@ nav ul li a {
 }
 
 .price{
-    margin-top: 190px;
+    margin-top: 300px;
     align-items: center;
     color: blue;
     margin-left: 50px;
@@ -57,7 +61,7 @@ button {
     height: 30px;
     border: none;
     border-radius: 10px;
-    background-color: green;
+    background-color: blue;
     color: white;
     font-size: 20px;
 }
